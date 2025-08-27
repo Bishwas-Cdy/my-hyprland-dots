@@ -1,0 +1,8 @@
+window:
+  opacity: 0.75  # 75% opacity, change this as you like (0.0 - 1.0)
+
+background_opacity: 0.75  # fallback for older versions
+
+colors:
+  primary:
+    background: '0x000000'

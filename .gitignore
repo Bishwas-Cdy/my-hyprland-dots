@@ -1,0 +1,6 @@
+*.swp
+*.log
+.cache/
+logs/
+node_modules/
+__pycache__/
